@@ -32,11 +32,11 @@
 
 ![](django-blog-images/eight.PNG)
 
-### All Posts by a User
+### All Posts by a  certain User
 
 ![](django-blog-images/nine.PNG)
 
-### Email Reset Page
+### Password Reset Page
 
 ![](django-blog-images/ten.PNG)
 
