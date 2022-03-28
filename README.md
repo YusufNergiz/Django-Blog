@@ -9,3 +9,5 @@
 ### The app allows users to register/login to their account using their emails, then allows them to post or visit blogs.
 
 ![](django-blog-images/second.PNG)
+
+### Page Paginator in Use ☝️
