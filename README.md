@@ -4,4 +4,4 @@
 ## Database - SQLite
 ## File - Json
 
-![Saved Pass](django-blog-images/Capture)
+![Saved Pass](django-blog-images/Capture.PNG)
