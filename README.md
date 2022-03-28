@@ -11,3 +11,35 @@
 ![](django-blog-images/second.PNG)
 
 ### Page Paginator in Use ☝️
+
+![](django-blog-images/third.PNG)
+
+### Profile Page for Logged In Users
+
+![](django-blog-images/fourth.PNG)
+
+![](django-blog-images/fifth.PNG)
+
+### Uploading a New Post
+
+![](django-blog-images/six.PNG)
+
+### User Logged Out
+
+![](django-blog-images/seven.PNG)
+
+### Log In Page
+
+![](django-blog-images/eight.PNG)
+
+### All Posts by a User
+
+![](django-blog-images/nine.PNG)
+
+### Email Reset Page
+
+![](django-blog-images/ten.PNG)
+
+![](django-blog-images/eleven.PNG)
+
+### Password reset Email.
